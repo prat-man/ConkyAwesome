@@ -6,7 +6,7 @@
 Information
 -----------
 
-<table border=0>
+<table>
    <tr>
       <td>Author</td>
       <td>Pratanu Mandal</td>
