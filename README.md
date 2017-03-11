@@ -4,7 +4,6 @@ Information
 
 Author:    Pratanu Mandal<br/>
 Website:   www.pratanumandal.tk<br/>
-Email:     pratanu.mandal@gmail.com<br/>
 License:   GPL-3.0+<br/>
 Version:   2.0<br/>
 Date:      11/03/2017<br/><br/>
