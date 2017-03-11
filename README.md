@@ -7,7 +7,7 @@ Information
 -----------
 
 ``Author:                   Pratanu Mandal``<br/>
-Website:	&nbsp;&nbsp;&nbsp;&nbsp;www.pratanumandal.tk<br/>
+``Website:	                www.pratanumandal.tk``<br/>
 License:	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPL-3.0+<br/>
 Version:	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.0<br/>
 Date:		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11 / 03 / 2017<br/><br/>
