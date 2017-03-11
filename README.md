@@ -1,6 +1,7 @@
 # ConkyAwesome
 
-![alt tag](./screenshots/screenshot1.png)
+![Screenshot 1](./screenshots/screenshot1.png)
+<br/>
 
 Information
 -----------
