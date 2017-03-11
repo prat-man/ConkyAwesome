@@ -1,7 +1,7 @@
 # ConkyAwesome
 
 ![Screenshot 1](./screenshots/screenshot1.png)
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 Information
 -----------
@@ -28,7 +28,7 @@ Information
       <td>11 / 03 / 2017</td>
    </tr>
 </table>
-<br/>
+<br/><br/>
 
 
 
@@ -89,7 +89,7 @@ Credits & Acknowledgements
 --------------------------
 
 This work is derived from 'Conky Google Now', originally by 'satya164'.<br/>
-Link: http://satya164.deviantart.com/art/Conky-Google-Now-366545753<br/><br/><br/>
+Link: http://satya164.deviantart.com/art/Conky-Google-Now-366545753<br/><br/>
 
 
 ------------------------------------------------------------------------------
