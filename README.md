@@ -35,6 +35,28 @@ Information
 Requirements
 ------------
 
+<table>
+   <tr>
+      <td>Fonts</td>
+      <td>'Open Sans Light' and 'DejaVu Sans Mono'</td>
+   </tr>
+   <tr>
+      <td>Website</td>
+      <td>www.pratanumandal.tk</td>
+   </tr>
+   <tr>
+      <td>License</td>
+      <td>GPL-3.0+</td>
+   </tr>
+   <tr>
+      <td>Version</td>
+      <td>2.0</td>
+   </tr>
+   <tr>
+      <td>Date</td>
+      <td>11 / 03 / 2017</td>
+   </tr>
+</table>
 Fonts:     'Open Sans Light' and 'DejaVu Sans Mono'<br/>
 Packages:  'conky' and 'curl'<br/>
 OS:        Linux<br/><br/><br/>
