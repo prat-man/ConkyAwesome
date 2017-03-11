@@ -56,7 +56,7 @@ Installation Instructions
 
 
 4. &emsp;Open the file ".conkyrc" in the home directory with a text editor, search for "2278277" and replace it with the WOEID of<br/>
-   &emsp;your own location.<br/>
+   &nbsp;your own location.<br/>
    &emsp;To find your WOEID, browse or search for your city from the Yahoo Weather home page:  http://weather.yahoo.com/<br/>
    &emsp;The WOEID is in the URL of the forecast page for that city.<br/>
 
