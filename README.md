@@ -1,4 +1,7 @@
 # ConkyAwesome
+
+![alt tag](./screenshots/screenshot1.png)
+
 Information
 -----------
 
