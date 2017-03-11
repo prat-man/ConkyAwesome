@@ -36,7 +36,7 @@ Requirements
 ------------
 
 Fonts:     'Open Sans Light' and 'DejaVu Sans Mono'<br/>
-Packages:  'conky' and 'curl'<br/><br/>
+Packages:  'conky' and 'curl'<br/><br/><br/>
 
 
 
@@ -48,7 +48,7 @@ In general most file managers recognize the "Ctrl+H" keyboard shortcut for hidin
 <br/>
 The conky might not fit in your screen, depending on your screen size.<br/>
 In such cases, consider removing some of the components by simple deleting the code for those components in .conkyrc file.
-The file has been clearly labelled to help identify the components. You may also make more indepth changes to the conky in order to fit it into your screen if you are proficient in writing conky.<br/><br/>
+The file has been clearly labelled to help identify the components. You may also make more indepth changes to the conky in order to fit it into your screen if you are proficient in writing conky.<br/><br/><br/>
 
 
 
@@ -81,7 +81,7 @@ Installation Instructions
 5. &emsp;Add "conky" to your Startup Applications.<br/>
 
 
-6. &emsp;Reboot or log out and log back in.<br/><br/>
+6. &emsp;Reboot or log out and log back in.<br/><br/><br/>
 
 
 
@@ -89,7 +89,7 @@ Credits & Acknowledgements
 --------------------------
 
 This work is derived from 'Conky Google Now', originally by 'satya164'.<br/>
-Link: http://satya164.deviantart.com/art/Conky-Google-Now-366545753<br/><br/>
+Link: http://satya164.deviantart.com/art/Conky-Google-Now-366545753<br/><br/><br/>
 
 
 ------------------------------------------------------------------------------
