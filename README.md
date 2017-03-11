@@ -48,8 +48,8 @@ Installation Instructions
    &emsp;(a) Install 'Open Sans Light' font from the following link:<br/>
    &emsp;&emsp;&emsp;&emsp;http://www.opensans.com/<br/>
 
-    (b) Install 'DejaVu Sans Mono' font from  the following link:<br/>
-           > https://www.fontsquirrel.com/fonts/dejavu-sans-mono<br/>
+   &emsp;(b) Install 'DejaVu Sans Mono' font from  the following link:<br/>
+   &emsp;&emsp;&emsp;&emsp;https://www.fontsquirrel.com/fonts/dejavu-sans-mono<br/>
 
 
 3. &emsp;Copy ".conkyrc" file and ".conky-awesome-assets" directory to the home directory.<br/>
