@@ -28,7 +28,7 @@ Information
       <td>11 / 03 / 2017</td>
    </tr>
 </table>
-<br/><br/>
+<br/>
 
 
 
@@ -49,7 +49,7 @@ Requirements
       <td>Linux</td>
    </tr>
 </table>
-<br/><br/>
+<br/>
 
 
 
