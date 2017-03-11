@@ -6,7 +6,7 @@
 Information
 -----------
 
-Author:    Pratanu Mandal<br/>
+<label style="display:inline-block; width:450px;">Author:</label>    Pratanu Mandal<br/>
 Website:   www.pratanumandal.tk<br/>
 License:   GPL-3.0+<br/>
 Version:   2.0<br/>
