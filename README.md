@@ -6,11 +6,28 @@
 Information
 -----------
 
-Author:   Pratanu Mandal<br/>
-Website:	 www.pratanumandal.tk><br/>
-License:	 GPL-3.0+<br/>
-Version:	 2.0<br/>
-Date:		 11 / 03 / 2017<br/><br/>
+<table border=0>
+   <tr>
+      <td>Author</td>
+      <td>Pratanu Mandal</td>
+   </tr>
+   <tr>
+      <td>Website</td>
+      <td>www.pratanumandal.tk</td>
+   </tr>
+   <tr>
+      <td>License</td>
+      <td>GPL-3.0+</td>
+   </tr>
+   <tr>
+      <td>Version</td>
+      <td>2.0</td>
+   </tr>
+   <tr>
+      <td>Date</td>
+      <td>11 / 03 / 2017</td>
+   </tr>
+</table>
 
 
 
