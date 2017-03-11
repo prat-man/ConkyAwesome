@@ -94,6 +94,6 @@ Link: http://satya164.deviantart.com/art/Conky-Google-Now-366545753<br/><br/>
 
 ------------------------------------------------------------------------------
 
-Hope you enjoy using it.<br/>
+<br/>Hope you enjoy using it.<br/>
 If you face any bugs or problems regarding this conky feel free to contact me.<br/>
-Also, I would love to receive your feedback.<br/>
+Also, I would love to receive your feedback.<br/><br/>
