@@ -61,7 +61,6 @@ Installation Instructions
 
 
 5. &emsp;Add "conky" to your Startup Applications.<br/>
-   &emsp;Note: Replace USERNAME with your username.<br/>
 
 
 6. &emsp;Reboot or log out and log back in.<br/><br/>
