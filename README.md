@@ -37,6 +37,7 @@ Requirements
 
 Fonts:     'Open Sans Light' and 'DejaVu Sans Mono'<br/>
 Packages:  'conky' and 'curl'<br/><br/><br/>
+OS:        Linux
 
 
 
