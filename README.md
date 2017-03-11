@@ -6,11 +6,11 @@
 Information
 -----------
 
-Author: &nbsp;&nbsp;Pratanu Mandal<br/>
-Website: &nbsp;www.pratanumandal.tk<br/>
-License: &nbsp;GPL-3.0+<br/>
-Version: &nbsp;2.0<br/>
-Date: &nbsp;&nbsp;&nbsp;&nbsp;11/03/2017<br/><br/>
+Author:		Pratanu Mandal<br/>
+Website:		www.pratanumandal.tk<br/>
+License:		GPL-3.0+<br/>
+Version:		2.0<br/>
+Date:			11/03/2017<br/><br/>
 
 
 
