@@ -1,7 +1,7 @@
 # ConkyAwesome
 
 ![Screenshot 1](./screenshots/screenshot1.png)
-<br/>
+<br/><br/><br/>
 
 Information
 -----------
