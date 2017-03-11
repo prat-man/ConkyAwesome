@@ -49,11 +49,24 @@ color2 669900
 
 
 TEXT
+#
+#
+#################################################################################
+#                                  DATE AND TIME                                #
+#################################################################################
+#
 ${voffset 5}${font Open Sans Light:pixelsize=32}${alignc}${time %A}
 ${font Open Sans Light:pixelsize=20}${alignc}${time %d %B %Y}
 ${font Open Sans Light:pixelsize=40}${alignc}${time %H:%M}${font}
 #
 ${voffset 8}${hr}${color}${voffset 5}
+#
+#
+#
+#
+#################################################################################
+#                               WEATHER INFORMATION                             #
+#################################################################################
 #
 ${execi 10 curl -s "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20%3D%202278277%20and%20u=%27c%27&format=xml&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys" -o ~/.cache/weather.xml}${font Open Sans Light:size=15}${goto 20}${execi 10 grep "yweather:location" ~/.cache/weather.xml | grep -o "city=\"[^\"]*\"" | grep -o "\"[^\"]*\"" | grep -o "[^\"]*"}, ${execi 10 grep "yweather:location" ~/.cache/weather.xml | grep -o "country=\"[^\"]*\"" | grep -o "\"[^\"]*\"" | grep -o "[^\"]*"}${font}
 ${font Open Sans Light:size=70}${voffset -5}${alignr}${execi 10 grep "yweather:condition" ~/.cache/weather.xml | grep -o "temp=\"[^\"]*\"" | grep -o "\"[^\"]*\"" | grep -o "[^\"]*"}°${font}
@@ -68,6 +81,13 @@ ${goto 35}${execi 10 grep "yweather:forecast" ~/.cache/weather.xml | grep -o "lo
 #
 ${voffset 5}${hr}${color}${voffset 10}
 #
+#
+#
+#
+#################################################################################
+#                                 CPU STATISTICS                                #
+#################################################################################
+#
 ${font Open Sans Light:size=11:bold}${voffset -24}
 ${offset 4}${color1}CPU${color}${offset 10}${cpu cpu0}%
 ${font DejaVu Sans Mono:size=10}${voffset -18}
@@ -78,6 +98,13 @@ ${offset 4}${color2}Core2${color}${color}${offset 10}${execpi 1 sensors | grep '
 ${font}
 #
 ${voffset -15}${hr}${color}${voffset 10}
+#
+#
+#
+#
+#################################################################################
+#                                MEMORY STATISTICS                              #
+#################################################################################
 #
 ${font Open Sans Light:size=11:bold}${voffset -24}
 ${offset 4}${color1}RAM${color}${offset 10}$memperc%${alignr 4}${voffset -9}${membar 20,160}
@@ -92,6 +119,13 @@ ${font}
 #
 ${voffset -15}${hr}${color}${voffset 10}
 #
+#
+#
+#
+#################################################################################
+#                            HARD DISK (HD) STATISTICS                          #
+#################################################################################
+#
 ${font Open Sans Light:size=11:bold}${voffset -24}
 ${offset 4}${color1}HD${color}${offset 10}${fs_used_perc /}%${alignr 4}${voffset -9}${fs_bar 20,160}
 ${font DejaVu Sans Mono:size=10}
@@ -99,7 +133,22 @@ ${offset 4}${color2}Used${color}${offset 10}${fs_used /}${alignr 14}${color2}Tot
 #
 ${voffset 0}${hr}${color}${voffset 5}
 #
+#
+#
+#
+#################################################################################
+#                                      UPTIME                                   #
+#################################################################################
+#
 ${font DejaVu Sans Mono:size=10}${voffset -18}
 ${offset 4}${color1}Uptime${color}  ${color2}${uptime}${color}${color7}${font}
+#
+#
+#
+#
+#################################################################################
+#######################   ENDING SEGMENT (DO NOT REMOVE!)   #####################
+#################################################################################
+#
 
 ${voffset -161}
