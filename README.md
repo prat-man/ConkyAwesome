@@ -60,7 +60,7 @@ Some of the files may be hidden. To see all files unhide them in your file manag
 In general most file managers recognize the "Ctrl+H" keyboard shortcut for hiding/unhiding files.<br/>
 <br/>
 The conky might not fit in your screen, depending on your screen size.<br/>
-In such cases, consider removing some of the components by simple deleting the code for those components in .conkyrc file.
+In such cases, consider removing some of the components by simply deleting the code for those components in .conkyrc file.
 The file has been clearly labelled to help identify the components. You may also make more indepth changes to the conky in order to fit it into your screen if you are proficient in writing conky.<br/><br/>
 
 
