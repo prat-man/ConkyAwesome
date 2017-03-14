@@ -8,8 +8,8 @@ Information
 
 <table>
    <tr>
-      <td>Author</td>
-      <td>Pratanu Mandal</td>
+      <td width="100px">Author</td>
+      <td width="200px">Pratanu Mandal</td>
    </tr>
    <tr>
       <td>Website</td>
@@ -37,8 +37,8 @@ Requirements
 
 <table>
    <tr>
-      <td valign="top">Fonts</td>
-      <td>Open Sans Light<br/>DejaVu Sans Mono</td>
+      <td valign="top" width="100px">Fonts</td>
+      <td width="200px">Open Sans Light<br/>DejaVu Sans Mono</td>
    </tr>
    <tr>
       <td valign="top">Packages</td>
