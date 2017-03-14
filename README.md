@@ -42,7 +42,7 @@ Requirements
    </tr>
    <tr>
       <td>Packages</td>
-      <td>'conky' and 'curl'</td>
+      <td>'conky', 'curl', and 'lm-sensors'</td>
    </tr>
    <tr>
       <td>OS</td>
