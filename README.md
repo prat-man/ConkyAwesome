@@ -94,7 +94,7 @@ Installation Instructions
 6. &emsp;Add "conky" to your Startup Applications.<br/>
 
 
-7. &emsp;Reboot or log out and log back in.<br/><br/>
+7. &emsp;<i>Reboot</i> or <i>log out and log back in</i>.<br/><br/>
 
 
 
