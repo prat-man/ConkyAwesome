@@ -37,12 +37,12 @@ Requirements
 
 <table>
    <tr>
-      <td>Fonts</td>
-      <td><i>Open Sans Light</i> and <i>DejaVu Sans Mono</i></td>
+      <td valign="top">Fonts</td>
+      <td>Open Sans Light<br/>DejaVu Sans Mono</td>
    </tr>
    <tr>
-      <td>Packages</td>
-      <td><i>conky</i>, <i>curl</i>, and <i>lm-sensors</i></td>
+      <td valign="top">Packages</td>
+      <td>conky<br/>curl<br/>lm-sensors</td>
    </tr>
    <tr>
       <td>OS</td>
