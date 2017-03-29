@@ -74,7 +74,7 @@ Installation Instructions
 
 2. &emsp;Download and install fonts:<br/>
    &emsp;(a) Install 'Open Sans Light' font from the following link:<br/>
-   &emsp;&emsp;&emsp;&emsp;http://www.opensans.com/<br/>
+   &emsp;&emsp;&emsp;&emsp;https://www.fontsquirrel.com/fonts/open-sans<br/>
 
    &emsp;(b) Install 'DejaVu Sans Mono' font from  the following link:<br/>
    &emsp;&emsp;&emsp;&emsp;https://www.fontsquirrel.com/fonts/dejavu-sans-mono<br/>
