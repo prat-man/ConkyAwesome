@@ -42,7 +42,7 @@ Requirements
    </tr>
    <tr>
       <td valign="top">Packages</td>
-      <td>conky<br/>curl<br/>lm-sensors</td>
+      <td>conky-all<br/>curl<br/>lm-sensors</td>
    </tr>
    <tr>
       <td>OS</td>
@@ -69,7 +69,7 @@ The file has been clearly labelled to help identify the components. You may also
 Installation Instructions
 -------------------------
 
-1. &emsp;First install "conky" if you don't have it, also ensure that you have "curl" and "lm-sensors" installed.<br/>
+1. &emsp;First install the package "conky-all" if you don't have it, also ensure that you have "curl" and "lm-sensors" installed.<br/>
 
 
 2. &emsp;Download and install fonts:<br/>
