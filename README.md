@@ -21,7 +21,7 @@ Information
    </tr>
    <tr>
       <td>Version</td>
-      <td>2.0</td>
+      <td>3.0</td>
    </tr>
    <tr>
       <td>Date</td>
