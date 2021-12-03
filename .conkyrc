@@ -89,6 +89,7 @@ ${voffset 5}${hr}${color}${voffset 10}
 #
 ${font Open Sans Light:size=11:bold}${voffset -24}
 ${offset 4}${color1}CPU${color}${offset 10}${cpu cpu0}%
+${offset 4}${color1}Avg. Temp.${color}${offset 10}${execp sensors -Au | awk '/temp.*_input/{temp += $2; count += 1} END {printf "%.1f \n", temp/count}'}°C
 ${font DejaVu Sans Mono:size=10}${voffset -18}
 ${alignr 4}${voffset -24}${cpugraph cpu0 75,160 color color}${offset 5}
 ${voffset -55}
